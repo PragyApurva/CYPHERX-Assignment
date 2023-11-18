@@ -1,0 +1,114 @@
+:root {
+    --primary-color: #b06e0c;
+    --secondary-color: #72df0c;
+    --border-color: #ccc;
+    --text-grey: #777;
+    --black1: #000;
+    --white1: #fff;
+    --grey1: #ddd;
+  }
+
+  .card-container {
+    width: 100%;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    border: 1px solid var(--border-color);
+    box-shadow: 0px 2px 8px 1px var(--border-color);
+    background-color: var(--white1);
+    margin-bottom: 1rem;
+    cursor: pointer;
+  }
+
+  .card-id-wrapper {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+
+  .card-id {
+    color: var(--text-grey);
+    font-size: 0.95rem;
+    font-weight: 500;
+  }
+
+  .card-profile {
+    height: 2.6rem;
+    width: 2.6rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--white1);
+    background-color: var(--primary-color);
+    border-radius: 50%;
+    font-size: 0.8rem;
+    position: relative;
+  }
+
+  .card-profile-initial {
+    text-transform: uppercase;
+  }
+
+  .card-profile-initial-available {
+    height: 1.2rem;
+    width: 1.2rem;
+    background-color: var(--grey1);
+    border: 1.5px solid var(--white1);
+    position: absolute;
+    z-index: 0;
+    border-radius: 50%;
+    left: 70%;
+    top: 70%;
+  }
+
+  .card-profile-initial-available-true {
+    background-color: var(--secondary-color);
+  }
+
+  .card-title {
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--black1);
+  }
+
+  .card-tag {
+    display: flex;
+    align-items: center;
+    margin-top: 0.8rem;
+  }
+
+  .card-tag-icon {
+    border: 1px solid var(--grey1);
+    border-radius: 0.3rem;
+    width: fit-content;
+    height: 2.5rem;
+    display: flex;
+    align-items: center;
+    margin-right: 0.5rem;
+  }
+
+  .card-tag-icon > svg {
+    color: var(--text-grey);
+    height: 2rem;
+  }
+
+  .card-tag-box {
+    border: 1px solid var(--grey1);
+    padding: 0.3rem;
+    border-radius: 0.3rem;
+    width: fit-content;
+  }
+
+  .card-tag-title {
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--text-grey);
+  }
+
+  .card-tag-title::before {
+    content: " ";
+    height: 1rem;
+    width: 1rem;
+    background-color: var(--text-grey);
+    border-radius: 50%;
+    margin-right: 0.2rem;
+  }

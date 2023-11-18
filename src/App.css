@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root{
+  --white1: #ffffff;
+  --black1: #000000;
+  --textgrey: #3e4762;
+  --grey1: #dfe4e9;
+  --grey2: #f0f1f4;
+  --grey3: #F8F8FA;
+
+}
+body {
+  font-family: monospace;
+  line-height: 1.6;
+}
+
+.board-details {
+  width: 100%;
+  min-height: calc(100vh - 68px);
+  background-color: var(--grey2);
+  overflow-x: auto;
+  padding: 20px;
+}
+.board-details-list{
+  margin: 0 auto;
+  width: 100%;
+  width: fit-content;
+  gap: 20px;
+  display: flex;
+}
