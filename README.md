@@ -4,7 +4,7 @@
 This is an interactive Kanban board application using React JS that interacts with the provided API from : https://api.quicksell.co/v1/internal/frontend-assignment
 
 ## Site Preview
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/59335572/151654679-31b2a2d6-ff85-4577-bd8d-5c44c7081ea6.png">
+<img width="960" alt="image" src="https://github.com/PragyApurva/Quicksell-Assignment/blob/026cd3e90c3dd5fef8e702216a6f76f723d795b3/public/demo.png">
 
 ## Link to the site
 
