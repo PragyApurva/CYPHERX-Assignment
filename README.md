@@ -8,7 +8,7 @@ This is an interactive Kanban board application using React JS that interacts wi
 
 ## Link to the site
 
-[![Netlify Status](![Vercel](http://therealsujitk-vercel-badge.vercel.app/?app=therealsujitk-vercel-badge))](https://quicksell-assignment-kappa.vercel.app/)
+![Vercel](https://quicksell-assignment-kappa.vercel.app/?app=quicksell-assignment-kappa.vercel-badge) (https://quicksell-assignment-kappa.vercel.app/)
 
 ## Features
 When a user clicks the "display" button and selects a grouping option, the Kanban board should dynamically adjust to reflect the user's choice.
