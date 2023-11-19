@@ -3,6 +3,13 @@
 ## Kanban board
 This is an interactive Kanban board application using React JS that interacts with the provided API from : https://api.quicksell.co/v1/internal/frontend-assignment
 
+## Site Preview
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/59335572/151654679-31b2a2d6-ff85-4577-bd8d-5c44c7081ea6.png">
+
+## Link to the site
+
+[![Netlify Status](![Vercel](http://therealsujitk-vercel-badge.vercel.app/?app=therealsujitk-vercel-badge))](https://quicksell-assignment-kappa.vercel.app/)
+
 ## Features
 When a user clicks the "display" button and selects a grouping option, the Kanban board should dynamically adjust to reflect the user's choice.
 The application offers three distinct ways to group the data:
@@ -31,13 +38,30 @@ Users is also be able to sort the displayed tickets in two ways:
 1 - Low
 0 - No priority
 
-## Site Preview
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/59335572/151654679-31b2a2d6-ff85-4577-bd8d-5c44c7081ea6.png">
+## Installation
 
-## Link to our site
+follow these steps to run the Kanban board application locally:
 
-[![Netlify Status](![Vercel](http://therealsujitk-vercel-badge.vercel.app/?app=therealsujitk-vercel-badge))](https://quicksell-assignment-kappa.vercel.app/)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/PragyApurva/Quicksell-Assignment.git
+   ```
+   
+2. Navigate to the project directory:
+    ```bash
+    cd Quicksell-Assignment
+    ```
 
+3. Install the required dependencies:
+    ```bash
+    npm install
+    ```
+4. Start the development server:
+    ```bash
+    npm start
+    ```
+5. Open your web browser and visit http://localhost:3000 to use the application.
+   
 ### Frontend
 
 For Frontend I used Reactjs as framework. Styling is in pure CSS and vercel for deployment.
