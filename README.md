@@ -6,9 +6,9 @@ This is an interactive Kanban board application using React JS that interacts wi
 ## Site Preview
 <img width="960" alt="image" src="https://github.com/PragyApurva/Quicksell-Assignment/blob/026cd3e90c3dd5fef8e702216a6f76f723d795b3/public/demo.png">
 
-## Link to the site
+## Link to the API
 
-[Demo](https://quicksell-assignment-kappa.vercel.app/)
+[Demo](https://tfyincvdrafxe7ut2ziwuhe5cm0xvsdu.lambda-url.ap-south-1.on.aws/ticketAndUsers)
 
 ## Features
 When a user clicks the "display" button and selects a grouping option, the Kanban board should dynamically adjust to reflect the user's choice.
