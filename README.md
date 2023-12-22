@@ -1,4 +1,4 @@
-# Quicksell-Assignment
+# CYPHERX-Assignment
 
 ## Kanban board
 This is an interactive Kanban board application using React JS that interacts with the provided API from : https://api.quicksell.co/v1/internal/frontend-assignment
