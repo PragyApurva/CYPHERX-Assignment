@@ -1,12 +1,12 @@
 # CYPHERX-Assignment
 
 ## Kanban board
-This is an interactive Kanban board application using React JS that interacts with the provided API from : https://api.quicksell.co/v1/internal/frontend-assignment
+This is an interactive Kanban board application using React JS that interacts with the provided API from : https://tfyincvdrafxe7ut2ziwuhe5cm0xvsdu.lambda-url.ap-south-1.on.aws/ticketAndUsers
 
 ## Site Preview
-<img width="960" alt="image" src="https://github.com/PragyApurva/Quicksell-Assignment/blob/026cd3e90c3dd5fef8e702216a6f76f723d795b3/public/demo.png">
+<img width="960" alt="image" src="https://github.com/PragyApurva/CYPHERX-Assignment/blob/026cd3e90c3dd5fef8e702216a6f76f723d795b3/public/demo.png">
 
-## Link to the API
+## Link to the site
 
 [Demo](https://tfyincvdrafxe7ut2ziwuhe5cm0xvsdu.lambda-url.ap-south-1.on.aws/ticketAndUsers)
 
@@ -44,12 +44,12 @@ follow these steps to run the Kanban board application locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/PragyApurva/Quicksell-Assignment.git
+   git clone https://github.com/PragyApurva/CYPHERX-Assignment.git
    ```
    
 2. Navigate to the project directory:
     ```bash
-    cd Quicksell-Assignment
+    cd CYPHERX-Assignment
     ```
 
 3. Install the required dependencies:
