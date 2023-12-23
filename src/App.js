@@ -44,7 +44,7 @@ function App() {
 
     async function fetchData() {
       try {
-        const response = await axios.get('https://api.quicksell.co/v1/internal/frontend-assignment');
+        const response = await axios.get('https://tfyincvdrafxe7ut2ziwuhe5cm0xvsdu.lambda-url.ap-south-1.on.aws/ticketAndUsers');
         refactorData(response);
       } catch (error) {
         console.error('Error fetching data:', error);
