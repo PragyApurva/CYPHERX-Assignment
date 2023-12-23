@@ -8,7 +8,7 @@ This is an interactive Kanban board application using React JS that interacts wi
 
 ## Link to the site
 
-[Demo](https://tfyincvdrafxe7ut2ziwuhe5cm0xvsdu.lambda-url.ap-south-1.on.aws/ticketAndUsers)
+[Demo](https://cypherx-assignment-beryl.vercel.app/)
 
 ## Features
 When a user clicks the "display" button and selects a grouping option, the Kanban board should dynamically adjust to reflect the user's choice.
